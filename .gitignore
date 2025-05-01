@@ -173,5 +173,3 @@ cython_debug/
 # Ignore specific Jupyter Notebook file
 cv_3b_LUP_.ipynb
 cv_3b_LUP_res_.ipynb
-cv8_SteepestDescent_sol.ipynb
-cv9_CG_sol.ipynb
