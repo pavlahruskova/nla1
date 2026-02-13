@@ -170,21 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Ignore specific Jupyter Notebook file
-cv_2_res.ipynb
-cv_3_du1_res.ipynb
-cv_3_LU_res.ipynb
-cv_3b_LUP_.ipynb
-cv_3b_LUP_res_.ipynb
-cv_4a_LDLT_res.ipynb
-cv_4b_LLT_du2_res.ipynb
-cv_4b_LLT_res.ipynb
-cv5_QR_du3_res.ipynb
-cv5_QR_res.ipynb
-cv6_Jacobi+Gauss-Seidel_du4_res.ipynb
-cv6_Jacobi+Gauss-Seidel_res.ipynb
-cv7_Richardson+Cebysev_res+du5_res.ipynb
-cv8_SteepestDescent_res.ipynb
-cv9_CG_res.ipynb
-cv10_PowerMethod_res.ipynb
-cv11_QRspectral_res.ipynb
+# Ignore specific Jupyter Notebook files
